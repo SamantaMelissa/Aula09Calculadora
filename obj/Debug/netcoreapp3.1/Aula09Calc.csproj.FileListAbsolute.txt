@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\bin\Debug\netcoreapp3.1\Aula09Calc.exe
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\bin\Debug\netcoreapp3.1\Aula09Calc.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\bin\Debug\netcoreapp3.1\Aula09Calc.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\bin\Debug\netcoreapp3.1\Aula09Calc.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\bin\Debug\netcoreapp3.1\Aula09Calc.dll
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\bin\Debug\netcoreapp3.1\Aula09Calc.pdb
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\obj\Debug\netcoreapp3.1\Aula09Calc.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\obj\Debug\netcoreapp3.1\Aula09Calc.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\obj\Debug\netcoreapp3.1\Aula09Calc.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\obj\Debug\netcoreapp3.1\Aula09Calc.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\obj\Debug\netcoreapp3.1\Aula09Calc.dll
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\obj\Debug\netcoreapp3.1\Aula09Calc.pdb
+C:\Users\saman\OneDrive\Documentos\Aula09Calc\obj\Debug\netcoreapp3.1\Aula09Calc.genruntimeconfig.cache
